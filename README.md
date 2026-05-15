@@ -4,7 +4,7 @@ Robot diferencial autónomo con navegación a punto objetivo, mapeo del entorno 
 
 ## Demo
 
-> 📹 [Video de funcionamiento]
+> 📹 [Video de funcionamiento] https://www.youtube.com/watch?v=i8VLGcG5RqI
 
 ---
 
@@ -179,4 +179,4 @@ autonomous-maze-navigation-ros2/
 
 ---
 
-*Proyecto desarrollado en colaboración con Agustin Biesheuvel para la materia Introduccion a la robotica, UNLP.*
+*Proyecto desarrollado en equipo para la materia Introduccion a la robotica, UNLP.*
